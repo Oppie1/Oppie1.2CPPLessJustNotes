@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36717.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.74Oppie1ExtraCrdVectrsLNs", "1.74Oppie1ExtraCrdVectrsLNs\1.74Oppie1ExtraCrdVectrsLNs.vcxproj", "{792560B8-A80E-407E-8E47-83CE7810E936}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{792560B8-A80E-407E-8E47-83CE7810E936}.Debug|x64.ActiveCfg = Debug|x64
+		{792560B8-A80E-407E-8E47-83CE7810E936}.Debug|x64.Build.0 = Debug|x64
+		{792560B8-A80E-407E-8E47-83CE7810E936}.Debug|x86.ActiveCfg = Debug|Win32
+		{792560B8-A80E-407E-8E47-83CE7810E936}.Debug|x86.Build.0 = Debug|Win32
+		{792560B8-A80E-407E-8E47-83CE7810E936}.Release|x64.ActiveCfg = Release|x64
+		{792560B8-A80E-407E-8E47-83CE7810E936}.Release|x64.Build.0 = Release|x64
+		{792560B8-A80E-407E-8E47-83CE7810E936}.Release|x86.ActiveCfg = Release|Win32
+		{792560B8-A80E-407E-8E47-83CE7810E936}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4AABC61-B841-44BF-8B10-C17ECA2AAE4A}
+	EndGlobalSection
+EndGlobal
