@@ -1,0 +1,4 @@
+﻿  main.cpp
+main.obj : error LNK2019: unresolved external symbol "public: __cdecl CodeRocksClass::CodeRocksClass(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int,double)" (??0CodeRocksClass@@QEAA@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HN@Z) referenced in function main
+main.obj : error LNK2019: unresolved external symbol "public: __cdecl CarClass::CarClass(int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0CarClass@@QEAA@HV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z) referenced in function main
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\1.OppieCPP\PmpBraks11-14.30-36\1.13.1OppieCnstructrsPmpBraks\x64\Debug\1.13.1OppieCnstructrsPmpBraks.exe : fatal error LNK1120: 2 unresolved externals
