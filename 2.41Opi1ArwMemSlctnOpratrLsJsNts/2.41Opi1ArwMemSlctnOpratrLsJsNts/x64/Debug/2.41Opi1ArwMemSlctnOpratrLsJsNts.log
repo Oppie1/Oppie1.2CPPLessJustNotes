@@ -1,0 +1,18 @@
+﻿  Claudia.cpp
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\1.OppieCPP\Oppie1EVNLesNts\2.41Opi1ArwMemSlctnOpratrLsJsNts\2.41Opi1ArwMemSlctnOpratrLsJsNts\claudia.h(20,1): error C2059: syntax error: '}'
+  (compiling source file 'Claudia.cpp')
+  
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\1.OppieCPP\Oppie1EVNLesNts\2.41Opi1ArwMemSlctnOpratrLsJsNts\2.41Opi1ArwMemSlctnOpratrLsJsNts\claudia.h(20,1): error C2143: syntax error: missing ';' before '}'
+  (compiling source file 'Claudia.cpp')
+  
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\1.OppieCPP\Oppie1EVNLesNts\2.41Opi1ArwMemSlctnOpratrLsJsNts\2.41Opi1ArwMemSlctnOpratrLsJsNts\Claudia.cpp(16,7): error C2143: syntax error: missing ';' before '<<'
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\1.OppieCPP\Oppie1EVNLesNts\2.41Opi1ArwMemSlctnOpratrLsJsNts\2.41Opi1ArwMemSlctnOpratrLsJsNts\Claudia.cpp(16,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\1.OppieCPP\Oppie1EVNLesNts\2.41Opi1ArwMemSlctnOpratrLsJsNts\2.41Opi1ArwMemSlctnOpratrLsJsNts\Claudia.cpp(16,7): error C2059: syntax error: '<<'
+  main.cpp
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\1.OppieCPP\Oppie1EVNLesNts\2.41Opi1ArwMemSlctnOpratrLsJsNts\2.41Opi1ArwMemSlctnOpratrLsJsNts\claudia.h(20,1): error C2059: syntax error: '}'
+  (compiling source file 'main.cpp')
+  
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\1.OppieCPP\Oppie1EVNLesNts\2.41Opi1ArwMemSlctnOpratrLsJsNts\2.41Opi1ArwMemSlctnOpratrLsJsNts\claudia.h(20,1): error C2143: syntax error: missing ';' before '}'
+  (compiling source file 'main.cpp')
+  
+  Generating Code...
